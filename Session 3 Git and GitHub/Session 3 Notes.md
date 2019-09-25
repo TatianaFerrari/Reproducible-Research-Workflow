@@ -103,7 +103,7 @@ Megeen | Magee | Geography
 John | Meral | Geography
 Sear | Sean | Engineering
 Rajveer | Ubhis | Geography
-Tatiane | Ferrari | Economics
+Tatiana | Ferrari | Economics
 Fernando | Romero | Economics
 
 ### GitHub Desktop
